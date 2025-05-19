@@ -1,10 +1,10 @@
 # Vimix Hyprcursor
 
-Vimix Cursor ported to hyprcursor, [original](https://github.com/vinceliuice/Vimix-cursors) by [vinceliuice](https://github.com/vinceliuice) 
+Vimix Cursors ported to hyprcursor, [original](https://github.com/vinceliuice/Vimix-cursors) by [vinceliuice](https://github.com/vinceliuice) 
 
 ## Disclaimer
 
-I am not the creator of the original designs or any part of the Vimix Cursor themes. My contribution to this project has been solely to port the existing Vimix Cursor designs by vinceliuice to the hyprcursor format. All original design credits belong to vinceliuice and their team.
+I am not the creator of the original designs or any part of the Vimix Cursors themes. My contribution to this project has been solely to port the existing Vimix Cursor designs by vinceliuice to the hyprcursor format. All original design credits belong to vinceliuice and their team.
 
 This project is distributed under the GNU General Public License v3.0 (GPLv3), in accordance with the license of the original work. A copy of the GPLv3 license is included in this distribution (see `LICENSE`).
 
